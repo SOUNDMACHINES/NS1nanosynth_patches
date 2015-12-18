@@ -15,7 +15,7 @@ Add your patches (by making a simple pull request!)
 
 - donwload the zip file by pressing "Download Zip button"
 - print NS1 Notebook Sample Page.pdf if you need to take notes
-- add the NS1 Nanosynth by SoundMachines.fzpz file to your [Fritzing](http://fritzing.org/home/) parts by following this guide
+- add the NS1 Nanosynth by SoundMachines.fzpz file to your [Fritzing](http://fritzing.org/home/) parts by following [this guide](http://fritzing.org/learning/tutorials/creating-custom-parts/)
 
 enjoy!
 
