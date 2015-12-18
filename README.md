@@ -11,4 +11,11 @@ If you are using [Fritzing](http://fritzing.org/home/), you can use the [NS1 Fri
 
 We've released several new sounds. You can read them hear or hear them on [our sound cloud tracklist](https://soundcloud.com/soundmachines_it/sets/ns1nanosynth-basic-patches-and)
 
+Add your patches (by making a simple pull request!)
+
+- donwload the zip file by pressing "Download Zip button"
+- print NS1 Notebook Sample Page.pdf if you need to take notes
+- add the NS1 Nanosynth by SoundMachines.fzpz file to your [Fritzing](http://fritzing.org/home/) parts by following this guide
+
 enjoy!
+
